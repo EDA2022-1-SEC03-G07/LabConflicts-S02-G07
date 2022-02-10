@@ -27,5 +27,5 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 
-Estudiante 1: Pedro Lerma
-Estudiante 2: Daniel Vargas
+Estudiante 1: Pedro Jose Lerma Garcia p.lerma@uniandes.edu.co 202012477
+Estudiante 2: Daniel Vargas Mayorga d.vargasm@uniandes.edu.co 201822068
